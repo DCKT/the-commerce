@@ -1,0 +1,7 @@
+(Source bs-react)
+(Cfg_str project_name the-commerce)
+(Cfg_str project_slug the-commerce)
+(Cfg_str project_description"An e-commerce interface written in ReasonML")
+(Cfg_str author_name"Thomas Deconinck")
+(Cfg_str css_framework TailwindCSS)
+(Cfg_str ci_cd Github)
