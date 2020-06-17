@@ -1,6 +1,6 @@
 # the-commerce
 
-[![Actions Status](https://github.com//the-commerce/workflows/CI/badge.svg)](https://github.com//the-commerce/actions)
+[![Actions Status](https://github.com/DCKT/the-commerce/workflows/CI/badge.svg)](https://github.com//the-commerce/actions)
 
 An e-commerce interface written in ReasonML
 
